@@ -6,3 +6,10 @@ git init   #start the git project
 git status  {to check the state of the files}
 git add . [to add all files that will be commited]
 git add [filename00] eg. git add walson.txt
+
+PUSHING TO REMOTE
+
+ADD THE ALIAS OF THE REPO
+EG
+
+git remote add https://github.com/CLASS32-DEVOPS-cloud/august-repos.git
