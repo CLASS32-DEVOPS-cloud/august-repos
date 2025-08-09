@@ -13,3 +13,5 @@ ADD THE ALIAS OF THE REPO
 EG
 
 git remote add https://github.com/CLASS32-DEVOPS-cloud/august-repos.git
+
+Hello this is my first commit
